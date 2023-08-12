@@ -1,4 +1,4 @@
-```
+
 # API ASP.NET 6 com Autenticação JWT
 
 Esta é uma API ASP.NET 6 que implementa autenticação JWT (JSON Web Tokens) para permitir a autenticação e autorização de usuários.
@@ -69,7 +69,6 @@ Contribuições são bem-vindas! Se você encontrar um problema ou quiser adicio
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-```
-```
+
 
 
